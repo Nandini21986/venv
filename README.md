@@ -1,10 +1,10 @@
-this is the project named
+This is the project named
 
 Word Guess
 
-how to use this 
+How to use this 
 
-clone this repo
+1. clone this repo
 
 ```
 pip install uv
@@ -14,5 +14,5 @@ pip install uv
 uv pip install -r requirement.txt
 ```
 
-thank you for visiting
-feel free to contribute
+Thank you for visiting
+Feel free to Contribute
